@@ -11,7 +11,7 @@ kubectl apply -f kubernetes-artifacts/prometheus/prometheus.yaml
 If your cluster is ACK (Alibaba Cloud Kubernetes) cluster, you can just exec command:
 
 ```
-kubectl apply -f kubernetes-artifacts/prometheus/gpu-expoter.yaml
+kubectl apply -f kubernetes-artifacts/prometheus/gpu-exporter.yaml
 ```
 
 If your cluster is not ACK cluster, exec command:
